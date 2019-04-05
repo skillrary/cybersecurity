@@ -6,6 +6,8 @@ pip install pywin32
 pip install pynput
 
 
+shutdown.exe -s -t 30 -c owned
+
 1) Keyboard lights trick (.vbs)
 
 Set wshShell =wscript.CreateObject("WScript.Shell")
