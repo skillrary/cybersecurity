@@ -1,4 +1,5 @@
 https://www.skillrary.com/blogs/read/malware
+
 https://www.skillrary.com/blogs/read/basics-of-cryptography
 
 # cybersecurity
