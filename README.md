@@ -210,12 +210,21 @@ msg * your message here!
 
 References from the class
 https://cybersecurityventures.com/hackerpocalypse-cybercrime-report-2016/
+
 https://cybersecurityventures.com/cybercrime-damages-6-trillion-by-2021/
+
 https://www.mailguard.com.au/blog/fbi-fraud-1-cybercrime
+
 https://www.forbes.com/sites/gilpress/2018/12/03/60-cybersecurity-predictions-for-2019/#3e16438f4352
+
 https://www.forbes.com/sites/gradsoflife/2019/03/19/the-1-mentality-how-it-can-close-the-gender-and-race-gap/#29d0894c3474
+
 https://www.gartner.com/en/information-technology/insights/cybersecurity
+
 https://en.wikipedia.org/wiki/Yahoo!_data_breaches
+
 https://us.norton.com/internetsecurity-emerging-threats-10-facts-about-todays-cybersecurity-landscape-that-you-should-know.html
+
 https://outpost24.com/blog/top-10-of-the-world-biggest-cyberattacks
+
 https://www.arnnet.com.au/slideshow/341113/top-10-most-notorious-cyber-attacks-history/
