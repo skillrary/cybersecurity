@@ -7,6 +7,7 @@ pip install pywin32
 
 pip install pynput
 
+https://www.skillrary.com/blogs/read/malware
 
 shutdown.exe -s -t 30 -c owned
 
