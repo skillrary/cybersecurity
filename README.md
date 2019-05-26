@@ -1,3 +1,6 @@
+https://www.skillrary.com/blogs/read/malware
+https://www.skillrary.com/blogs/read/basics-of-cryptography
+
 # cybersecurity
 Hands on Materials for Cyber Security Course
 
@@ -6,8 +9,6 @@ Install latest Python from python.org
 pip install pywin32
 
 pip install pynput
-
-https://www.skillrary.com/blogs/read/malware
 
 shutdown.exe -s -t 30 -c owned
 
