@@ -2,6 +2,8 @@ https://www.skillrary.com/blogs/read/malware
 
 https://www.skillrary.com/blogs/read/basics-of-cryptography
 
+https://www.skillrary.com/blogs/read/top-cybersecurity-certification-which-can-fetch-you-a-job-for-life
+
 # cybersecurity
 Hands on Materials for Cyber Security Course
 
